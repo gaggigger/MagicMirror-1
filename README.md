@@ -10,11 +10,11 @@ Modify `js/config.js` to change some general variables (language, weather locati
 To use the OpenWeatherMap API, you'll need a free API key. Checkout [this blogpost](http://michaelteeuw.nl/post/131504229357/what-happened-to-the-weather) for more information.
 
 ##Commands
-"Play news" - Opens news feed
-"Play music" - Plays a YouTube video
-"Stop" - Pauses video
-"Go" - Resumes video
-"Close YouTube" - Closes video window
+"Play news" - Opens news feed<br>
+"Play music" - Plays a YouTube video<br>
+"Stop" - Pauses video<br>
+"Go" - Resumes video<br>
+"Close YouTube" - Closes video window<br>
 
 ##Code
 
