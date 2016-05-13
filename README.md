@@ -1,6 +1,6 @@
 # Magic Mirror
 
-This is a magic mirror with voice recognition capabilities that builds off of [Michael Teeuw's](https://github.com/MichMich/MagicMirror) magic mirror project.
+A magic mirror using Google's Web Speech API for voice recognition capabilities. This project builds off of [Michael Teeuw's](https://github.com/MichMich/MagicMirror) magic mirror project.
 
 
 ##Configuration
